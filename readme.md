@@ -14,4 +14,4 @@
 cd /workspace/test
 ```
 
-后续添加项目代码时，请补充安装、运行和测试说明。
+运行示例：`python hello.py`
